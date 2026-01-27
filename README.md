@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Flominator
-
-## 🏢 My Organizations (Android stuff)
+## My Organizations (Android stuff)
 
 <table>
   <tr>
