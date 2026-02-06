@@ -29,14 +29,6 @@
 
 ---
 
-## GitHub Stats
-
-![FlominatorGD's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlominatorGD&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlominatorGD&layout=compact&theme=dark&langs_count=6)
-
----
-
 ## My Languages
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
